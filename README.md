@@ -4,10 +4,11 @@
 **Presented to:**  
 Dr. Ahmad Salman  
 
-**Presented by:**  
+**Presented by:** 
+- M. Hamza Naeem (335797)  
 - Wahab Hassan Janjua (341658)  
 - Fahad Arshad (331804)  
-- M. Hamza Naeem (335797)  
+
 
 ## Introduction
 This project explores various signal processing techniques applied to audio signals, focusing on spectral analysis, filtering, noise reduction through adaptive filters (specifically the LMS algorithm), voice activity detection (VAD), and volume control via a graphical user interface (GUI).
